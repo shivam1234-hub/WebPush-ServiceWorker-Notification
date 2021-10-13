@@ -14,11 +14,15 @@ npm install -g web-push
 
 web-push generate-vapid-keys
 
+Now you can start your app
+
 npm start
 
 cd server
 
 npm install
+
+Before running the server attach you mongodb atlas uri in db/connection.js
 
 nodemon app.js
 
