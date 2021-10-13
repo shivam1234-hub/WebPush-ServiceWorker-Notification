@@ -6,9 +6,13 @@ To run this clone it in your local system
 
 cd client 
 
+npm install
+
 npm start
 
 cd server
+
+npm install
 
 nodemon app.js
 
