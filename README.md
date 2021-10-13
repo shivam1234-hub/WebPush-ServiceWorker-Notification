@@ -5,6 +5,7 @@ This includes a form which have the body of notification so that we can dynamica
 To run this clone it in your local system 
 
 cd client 
+
 npm start
 
 cd server
