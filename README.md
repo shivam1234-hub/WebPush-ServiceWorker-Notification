@@ -29,5 +29,5 @@ nodemon app.js
 
 
 Then for first time if you open the react app the service worker will register  and again you referesh your app it will save the subscription to the backend
-(you will able to see the message "Subscription saved")  now you can  fill the form and click "Send notification" and a then  notification will popup on you screen :)
+(you will able to see the message "Subscription saved")  now you can  fill the form and click "Send notification" and  then  notification will popup on you screen :)
 
